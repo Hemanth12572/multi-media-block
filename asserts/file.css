@@ -1,0 +1,17 @@
+body{
+    background-color:red ;
+}
+h4{
+    text-decoration: dotted;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-align: center;
+
+}
+audio{
+    background-color: #e3ef08;
+    border-radius: 1;
+}
+img{
+    background-color: black;
+}
